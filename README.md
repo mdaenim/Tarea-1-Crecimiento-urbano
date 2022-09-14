@@ -1,12 +1,12 @@
 # Crecimiento urbano en el Gran Área Metropolitana de los últimos 20 años
 
 Este artículo es una recopilación del trabajo final del curso de Fotogrametría y Teledetección del segundo ciclo del 2021; elaborado por las estudiantes: 
-Daniela Amador Muñoz
-Marget Martinez
+*Daniela Amador Muñoz
+*Marget Martinez
 
 ## Introducción 
 
-El Gran Área Metropolitana fue creada como un instrumento para regular el crecimiento urbano, en lo que popularmente se conoce como el Valle Central. Este tiene una extensión de 196,700 ha. Pero en las últimas décadas el desarrollo urbano ha sido desordenado, o sea no sigue las políticas de ordenamiento territorial, y se ha marcado un claro patrón de expansión horizontal. En resumen, la GAM se ha expandido de forma periférica extendiendo el área de la ciudad más allá del anillo de contención. [1,2]
+El **Gran Área Metropolitana** fue creada como un instrumento para regular el crecimiento urbano, en lo que popularmente se conoce como el Valle Central. Este tiene una extensión de 196,700 ha. Pero en las últimas décadas el desarrollo urbano ha sido desordenado, o sea no sigue las políticas de ordenamiento territorial, y se ha marcado un claro patrón de expansión horizontal. En resumen, la GAM se ha expandido de forma periférica extendiendo el área de la ciudad más allá del anillo de contención. [1,2]
 
 ## Metodología
 
