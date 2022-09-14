@@ -1,8 +1,8 @@
 # Crecimiento urbano en el Gran Área Metropolitana de los últimos 20 años
 
 Este artículo es una recopilación del trabajo final del curso de Fotogrametría y Teledetección del segundo ciclo del 2021; elaborado por las estudiantes: 
-*Daniela Amador Muñoz
-*Marget Martinez
+* Daniela Amador Muñoz
+* Marget Martinez
 
 ## Introducción 
 
