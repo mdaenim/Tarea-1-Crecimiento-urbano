@@ -30,6 +30,8 @@ Por otro lado, el resultado de la imagen satelital para el año 2021 como se ve 
 
 Y por último, en la *Figura 3* se ve la sobreposición de las manchas urbanas del 2001 y del 2021. Acá pudieron comparar el crecimiento urbano en el periodo de 20 años, así como la cantidad de hectáreas que abarca cada uno de los años. Hay una diferencia de aproximadamente 20 400 hectáreas. La mayor parte de este crecimiento urbano se puede observar en las zonas de Cartago, Heredia y Alajuela fuera del anillo de contención urbana. Es un crecimiento que se ha dado de manera horizontal, por ello es que se observa aún más hacia las periferias del anillo de contención. Esto se deriva en distintas problemáticas que están asociadas a la manera desordenada en que se ha venido realizando este crecimiento. Esto lo podemos ver en la actualidad en factores como el transporte. Conforme aumenta la mancha urbana por fuera del anillo de contención, las distancias para el desplazamiento aumentan. Y además, se ve una disminución de la cobertura vegetal, lo que repercute en la calidad del aire y en el estado de los acuíferos.
 
+![Figura 3](https://github.com/mdaenim/Tarea-1-Crecimiento-urbano/blob/main/Figura%202.jpeg)
+
 ## Referencias
 
 1. Sánchez, L. Tendencias y patrones del crecimiento urbano en la GAM, implicaciones sociales, económicas y ambientales y desafíos desde el Ordenamiento territorial. Estado de la Nación. 2018. pp. 1-74. [Enlace a Informe Estado de la Nación](https://repositorio.conare.ac.cr/bitstream/handle/20.500.12337/2982/Tendencias_patrones_crecimiento_urbano_GAM.pdf?sequence=1&isAllowed=y) 
