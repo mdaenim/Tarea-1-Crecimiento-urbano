@@ -27,7 +27,7 @@ Y por último, en la *Figura 3* se ve la sobreposición de las manchas urbanas d
 
 ## Referencias
 
-1. Sánchez, L. Tendencias y patrones del crecimiento urbano en la GAM, implicaciones sociales, económicas y ambientales y desafíos desde el Ordenamiento territorial. Estado de la Nación. 2018. pp. 1-74.  https://repositorio.conare.ac.cr/bitstream/handle/20.500.12337/2982/Tendencias_patrones_crecimiento_urbano_GAM.pdf?sequence=1&isAllowed=y 
-2. Arguedas, D. Gran Área Metropolitana: víctima y cómplice del cambio climático. Ojo al clima. julio 29, 2016. https://ojoalclima.com/gran-area-metropolitana-victima-y-complice-del-cambio-climatico/.  
-3. USGS Science for a changing world. Landsat Project Description. https://web.archive.org/web/20160320142700/http://landsat.usgs.gov/about_project_descriptions.php. 
+1. Sánchez, L. Tendencias y patrones del crecimiento urbano en la GAM, implicaciones sociales, económicas y ambientales y desafíos desde el Ordenamiento territorial. Estado de la Nación. 2018. pp. 1-74. [Enlace a Informe Estado de la Nación] (https://repositorio.conare.ac.cr/bitstream/handle/20.500.12337/2982/Tendencias_patrones_crecimiento_urbano_GAM.pdf?sequence=1&isAllowed=y) 
+2. Arguedas, D. Gran Área Metropolitana: víctima y cómplice del cambio climático. Ojo al clima. julio 29, 2016. [Enlace a la p[agina Ojo al Clima] (https://ojoalclima.com/gran-area-metropolitana-victima-y-complice-del-cambio-climatico/)
+3. USGS Science for a changing world. Landsat Project Description. [Enla a la página de la USGS] (https://web.archive.org/web/20160320142700/http://landsat.usgs.gov/about_project_descriptions.php)
 
