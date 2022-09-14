@@ -21,6 +21,9 @@ El principal insumo para el desarrollo del trabajo fueron las imágenes Landsat 
 
 Los resultados mostraron como se puede ver en la *Figura 1*, que la mancha urbana para el año 2001 se limitó en su mayoría dentro del anillo de contención urbana. Lo que coincidió con los resultados de la *Tabla 1*, que indicó que la cantidad de hectáreas que representaba esta mancha de crecimiento urbano en esta fecha, eran alrededor de 43 300 ha. 
 
+
+![Figura 1](Figura 1.png)
+
 Por otro lado, el resultado de la imagen satelital para el año 2021 como se ve en la *Figura 2* es que la mancha urbana se sale del anillo de contención, ocupando espacios donde antes había cobertura vegetal o boscosa. Esto también lo pudieron corroborar con los datos obtenidos del cálculo de áreas de la *Tabla 1* que muestra la cantidad de hectáreas correspondientes a la mancha urbana de este año, con un valor aproximado de 61 780 ha. 
 
 Y por último, en la *Figura 3* se ve la sobreposición de las manchas urbanas del 2001 y del 2021. Acá pudieron comparar el crecimiento urbano en el periodo de 20 años, así como la cantidad de hectáreas que abarca cada uno de los años. Hay una diferencia de aproximadamente 20 400 hectáreas. La mayor parte de este crecimiento urbano se puede observar en las zonas de Cartago, Heredia y Alajuela fuera del anillo de contención urbana. Es un crecimiento que se ha dado de manera horizontal, por ello es que se observa aún más hacia las periferias del anillo de contención. Esto se deriva en distintas problemáticas que están asociadas a la manera desordenada en que se ha venido realizando este crecimiento. Esto lo podemos ver en la actualidad en factores como el transporte. Conforme aumenta la mancha urbana por fuera del anillo de contención, las distancias para el desplazamiento aumentan. Y además, se ve una disminución de la cobertura vegetal, lo que repercute en la calidad del aire y en el estado de los acuíferos.
