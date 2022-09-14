@@ -22,7 +22,7 @@ El principal insumo para el desarrollo del trabajo fueron las imágenes Landsat 
 Los resultados mostraron como se puede ver en la *Figura 1*, que la mancha urbana para el año 2001 se limitó en su mayoría dentro del anillo de contención urbana. Lo que coincidió con los resultados de la *Tabla 1*, que indicó que la cantidad de hectáreas que representaba esta mancha de crecimiento urbano en esta fecha, eran alrededor de 43 300 ha. 
 
 
-![] (Figura 1.png)
+![](https://github.com/mdaenim/Tarea-1-Crecimiento-urbano/blob/main/Figura%201.png)
 
 Por otro lado, el resultado de la imagen satelital para el año 2021 como se ve en la *Figura 2* es que la mancha urbana se sale del anillo de contención, ocupando espacios donde antes había cobertura vegetal o boscosa. Esto también lo pudieron corroborar con los datos obtenidos del cálculo de áreas de la *Tabla 1* que muestra la cantidad de hectáreas correspondientes a la mancha urbana de este año, con un valor aproximado de 61 780 ha. 
 
