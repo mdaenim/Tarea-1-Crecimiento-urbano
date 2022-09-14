@@ -28,7 +28,7 @@ Figura 1
 
 Tabla 1
 
-![Tabla 1](https://github.com/mdaenim/Tarea-1-Crecimiento-urbano/blob/main/Figura%201.png)
+![Tabla 1](https://github.com/mdaenim/Tarea-1-Crecimiento-urbano/blob/main/Tabla%201.jpeg)
 
 Por otro lado, el resultado de la imagen satelital para el año 2021 como se ve en la *Figura 2* es que la mancha urbana se sale del anillo de contención, ocupando espacios donde antes había cobertura vegetal o boscosa. Esto también lo pudieron corroborar con los datos obtenidos del cálculo de áreas de la *Tabla 1* que muestra la cantidad de hectáreas correspondientes a la mancha urbana de este año, con un valor aproximado de 61 780 ha. 
 
